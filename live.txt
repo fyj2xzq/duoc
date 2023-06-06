@@ -1,3 +1,4 @@
+卫视频道,#genre#
 浙江卫视1080,http://113.117.74.10:8081/hls/43/index.m3u8
 江苏卫视1080,http://113.117.74.10:8081/hls/44/index.m3u8
 安徽卫视1080,http://113.117.74.10:8081/hls/49/index.m3u8
@@ -17,4 +18,7 @@
 湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 湖南卫视,http://221.2.36.34:8888/newlive/live/hls/23/live.m3u8
 湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296202.m3u8
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+台湾中天,http://162.19.247.76:22222/live/ztyl/index.m3u8
